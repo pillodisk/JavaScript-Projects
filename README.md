@@ -1,1 +1,2 @@
 # JavaScript-Projects
+Newbie projects
