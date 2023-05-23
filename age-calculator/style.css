@@ -1,0 +1,14 @@
+body{
+    background-color:hsl(0, 0%, 86%);
+}
+
+.input-container, .output{
+    justify-content: center;
+    text-align: center;
+    margin: 200px;
+    background-color: hsl(0, 0%, 100%);
+}
+#y,#m,#d{
+    color:purple;
+}
+
